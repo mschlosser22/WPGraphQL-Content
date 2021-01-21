@@ -8,31 +8,45 @@
           {
             "backgroundColor": null,
             "containerClass": [],
+            "fieldGroupName": "general_content",
+            "paddingBottomAdjustment": null,
+            "paddingTopAdjustment": null,
+            "backgroundImagePosition": null,
+            "backgroundImageSize": null,
+            "backgroundStyle": null,
             "containerInner": [
               {
                 "copy": "<p class=\"largest\"><span style=\"color: #ca0828;\">A world of possibilities through a single degree.</span></p>\n<p>The professional world has gone global. No matter where you go in your career, you stand to face both challenges and opportunities associated with increasingly interconnected societies. So your interest in world culture can become highly valuable to many different organizations in almost every industry.</p>\n<p>Earning a Bachelor of Arts in International Studies at Maryville allows you to build a personalized degree to develop broad, cross-cultural skills. And by examining culture up close, you can form deep global insights that can help take your career anywhere you want it to go.</p>\n<p>Our online international studies degree is designed to help transform the way you think about the world, including the opportunity to learn a foreign language and a chance to study abroad in your preferred location or complete a virtual study abroad experience from anywhere. Your online international studies degree can serve as your chance to reset your perspective and add new value to your career by developing knowledge that wraps around the globe.</p>\n<a class=\"btn btn--learn-more btn--center red\" href=\"javascript:void(0)\" aria-haspopup=\"true\" data-croloc=\"content\" data-crotype=\"rfi\">Get Curriculum Details<span class=\"sr-only\"></span></a>\n<p>&nbsp;</p>\n",
                 "fieldGroupName": "page_LpContent_generalContent_ContainerInner_BlockCopy"
               }
             ],
-            "fieldGroupName": "general_content",
-            "paddingBottomAdjustment": null,
-            "paddingTopAdjustment": null
+            "backgroundVideo": null
           },
           {
             "backgroundColor": "bg--gray-lighter",
             "containerClass": [],
+            "fieldGroupName": "general_content",
+            "paddingBottomAdjustment": null,
+            "paddingTopAdjustment": null,
+            "backgroundImagePosition": "center center",
+            "backgroundImageSize": null,
+            "backgroundStyle": null,
             "containerInner": [
               {
                 "fieldGroupName": "page_LpContent_generalContent_ContainerInner_BlockUsp"
               }
             ],
-            "fieldGroupName": "general_content",
-            "paddingBottomAdjustment": null,
-            "paddingTopAdjustment": null
+            "backgroundVideo": null
           },
           {
             "backgroundColor": null,
             "containerClass": [],
+            "fieldGroupName": "general_content",
+            "paddingBottomAdjustment": null,
+            "paddingTopAdjustment": null,
+            "backgroundImagePosition": "center center",
+            "backgroundImageSize": null,
+            "backgroundStyle": null,
             "containerInner": [
               {
                 "copy": "<h2 style=\"text-align: center;\">Why earn your online<br />\nB.A. in International Studies?</h2>\n",
@@ -61,13 +75,17 @@
                 ]
               }
             ],
-            "fieldGroupName": "general_content",
-            "paddingBottomAdjustment": null,
-            "paddingTopAdjustment": null
+            "backgroundVideo": null
           },
           {
             "backgroundColor": "bg--gray-lighter-gradient",
             "containerClass": [],
+            "fieldGroupName": "general_content",
+            "paddingBottomAdjustment": null,
+            "paddingTopAdjustment": null,
+            "backgroundImagePosition": "center center",
+            "backgroundImageSize": null,
+            "backgroundStyle": null,
             "containerInner": [
               {
                 "copy": "<h2 style=\"text-align: center;\">What can you do with<br />\nan International Studies major?</h2>\n<p style=\"text-align: center;\">You see important connections made every day around the world. Those with the expertise to facilitate new global partnerships become key to an organization’s growth. That’s why our international studies degree is designed to adapt to fit your professional goals, whether you’re pursuing a career as a strategist, politician, historian, writer, policymaker, or any other role in which global insights are valued.</p>\n<h3 style=\"text-align: center;\">You can work in a variety of settings, including:</h3>\n",
@@ -154,15 +172,19 @@
                 ]
               }
             ],
-            "fieldGroupName": "general_content",
-            "paddingBottomAdjustment": null,
-            "paddingTopAdjustment": null
+            "backgroundVideo": null
           },
           {
             "backgroundColor": "bg--gray-dark",
             "containerClass": [
               "wrap--white-text"
             ],
+            "fieldGroupName": "general_content",
+            "paddingBottomAdjustment": null,
+            "paddingTopAdjustment": null,
+            "backgroundImagePosition": "center center",
+            "backgroundImageSize": null,
+            "backgroundStyle": null,
             "containerInner": [
               {
                 "copy": "<h3 style=\"text-align: center;\">What’s the market outlook&nbsp;for<br />\nB.A. in International Studies graduates?</h3>\n",
@@ -203,15 +225,19 @@
                 "fieldGroupName": "page_LpContent_generalContent_ContainerInner_BlockCopy"
               }
             ],
-            "fieldGroupName": "general_content",
-            "paddingBottomAdjustment": null,
-            "paddingTopAdjustment": null
+            "backgroundVideo": null
           },
           {
             "backgroundColor": null,
             "containerClass": [
               "wrap--white-text"
             ],
+            "fieldGroupName": "general_content",
+            "paddingBottomAdjustment": null,
+            "paddingTopAdjustment": null,
+            "backgroundImagePosition": "center center",
+            "backgroundImageSize": null,
+            "backgroundStyle": "Red Maryville M on Right",
             "containerInner": [
               {
                 "fieldGroupName": "page_LpContent_generalContent_ContainerInner_BlockCols",
@@ -228,13 +254,17 @@
                 ]
               }
             ],
-            "fieldGroupName": "general_content",
-            "paddingBottomAdjustment": null,
-            "paddingTopAdjustment": null
+            "backgroundVideo": null
           },
           {
             "backgroundColor": "bg--gray-lighter",
             "containerClass": [],
+            "fieldGroupName": "general_content",
+            "paddingBottomAdjustment": null,
+            "paddingTopAdjustment": null,
+            "backgroundImagePosition": "center center",
+            "backgroundImageSize": null,
+            "backgroundStyle": null,
             "containerInner": [
               {
                 "copy": "<h2 style=\"text-align: center;\">We’re continually recognized for excellence:</h2>\n",
@@ -245,13 +275,17 @@
                 "showAccredText": true
               }
             ],
-            "fieldGroupName": "general_content",
-            "paddingBottomAdjustment": null,
-            "paddingTopAdjustment": null
+            "backgroundVideo": null
           },
           {
             "backgroundColor": null,
             "containerClass": [],
+            "fieldGroupName": "general_content",
+            "paddingBottomAdjustment": null,
+            "paddingTopAdjustment": null,
+            "backgroundImagePosition": "center center",
+            "backgroundImageSize": null,
+            "backgroundStyle": null,
             "containerInner": [
               {
                 "copy": "<h3 style=\"text-align: center;\">Our faculty teaches from&nbsp;their<br />\nexperience building global connections.</h3>\n",
@@ -280,28 +314,36 @@
                 ]
               }
             ],
-            "fieldGroupName": "general_content",
-            "paddingBottomAdjustment": null,
-            "paddingTopAdjustment": null
+            "backgroundVideo": null
           },
           {
             "backgroundColor": "bg--gray-lighter",
             "containerClass": [],
+            "fieldGroupName": "general_content",
+            "paddingBottomAdjustment": null,
+            "paddingTopAdjustment": null,
+            "backgroundImagePosition": "center center",
+            "backgroundImageSize": null,
+            "backgroundStyle": null,
             "containerInner": [
               {
                 "copy": "<h2>Online Bachelor&#8217;s in International Studies Curriculum</h2>\n<p>The online Bachelor of Arts in International Studies is designed to help you develop a truly global perspective, with freedom to study a wide range of subjects that fuel your broad interests. Our program includes general education courses, international studies major courses, and general electives.</p>\n<ul>\n<li><strong>International Studies Core:</strong> Build your understanding of the broad applications of international studies as you study global issues. You can choose to study abroad on-location, complete a virtual study abroad experience from anywhere, or pursue an internationally-focused internship. Your program culminates in a capstone experience.</li>\n<li><strong>Culture and Politics Components: </strong>Tailor your degree to your interests and select the courses that appeal to you most in topics like art, music, religion, economics, culture, writing, and politics.</li>\n<li><strong>Foreign Language:</strong> Learn a foreign language and build your proficiency throughout this four-course component.</li>\n</ul>\n<p>Your choices continue as you pick your elective courses to pursue additional focus areas that can benefit your career. At the end of your program, you work with faculty to tie your learning together through a capstone project. It’s our goal to help you graduate with the global knowledge and perspective to build your linguistic, experiential, and professional skills to excel on the global stage and contribute to the international success in organizations everywhere.</p>\n",
                 "fieldGroupName": "page_LpContent_generalContent_ContainerInner_BlockCopy"
               }
             ],
-            "fieldGroupName": "general_content",
-            "paddingBottomAdjustment": null,
-            "paddingTopAdjustment": null
+            "backgroundVideo": null
           },
           {
             "backgroundColor": "bg--gray-dark",
             "containerClass": [
               "wrap--white-text"
             ],
+            "fieldGroupName": "general_content",
+            "paddingBottomAdjustment": null,
+            "paddingTopAdjustment": null,
+            "backgroundImagePosition": "center center",
+            "backgroundImageSize": null,
+            "backgroundStyle": null,
             "containerInner": [
               {
                 "fieldGroupName": "page_LpContent_generalContent_ContainerInner_BlockCols",
@@ -344,9 +386,7 @@
                 "popUpForm": null
               }
             ],
-            "fieldGroupName": "general_content",
-            "paddingBottomAdjustment": null,
-            "paddingTopAdjustment": null
+            "backgroundVideo": null
           }
         ]
       }
